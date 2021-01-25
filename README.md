@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**azzlkn/azzlkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :computer: I'm creating websites and mobile applications with
+  - __nodeJs__
+  - __React__
+  - __React-Native__
+- :earth_asia: I'm currently living in [Balıkesir, Türkiye](https://www.google.com/maps/search/Balıkesir)
+- 📫 How to reach me: 
+  - [Twitter](https://twitter.com/azzlkn)
+  - [Instagram](https://instagram.com/azzlkn)
+  - [Portfolio Web Site](http://www.azzlkn.com)
+  - [DADA YAZILIM](http://www.dadayazilim.com)
+  - azizalkan[at]dadayazilim.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
