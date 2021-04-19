@@ -19,6 +19,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Atatürk Bilim İnsanı Mıydı?](https://medium.com/@azzlkn/atat%C3%BCrk-bilim-i%CC%87nsan%C4%B1-m%C4%B1yd%C4%B1-2df96c7afd42?source=rss-4ea14b8f5acd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
